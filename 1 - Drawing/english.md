@@ -10,7 +10,7 @@ Once you download it and open it you should see the following app.
 ## Processing.js on Mac
 ![processing.js on mac](/Assets/processing-js.png)
 
-If yur on widnows it will look like this.
+If your on widnows it will look like this.
 
 ## Processing.js on Windows
 ![processing.js on windows](/Assets/proc-windows.png)
@@ -50,11 +50,11 @@ ellipse(100, 100, 100, 100);
 
 Now what about all the numbers in the parenthesis `(100, 100, 100, 100)`? Those are x and y positions on the screen.
 
-X and Y start in the top left corner.
+X and Y start in the top left corner ands move out. Just like a graph in geometry!
 
 ![processing axis](/Assets/processing-axis.png)
 
-The first 2 numbers in `ellipse` are for the top left corner position of the circle.
+The first 2 numbers in `ellipse` comand are for the top left position of the circle.
 
 ![](/Assets/ellipse-top-left.png)
 
@@ -70,7 +70,7 @@ Imagine if java didn't require them! The code would then look like this...
 ellipse100100100100
 ```
 
-And, well, that is just hard to read. So we add parenthesis and semicolons...
+And, well, that is just hard to read. So we add parenthesis and comma's...
 
 ```java
 ellipse(100, 100, 100, 100)
@@ -82,7 +82,7 @@ One last thing you might notice is that you have to put a semicolon `;` at the e
 
 That annoying little thing has to be there so java can tell lines of code apart. 
 
-In a file the whole idea of a "newline" is often represented as `\n`. So our code actually looks like this in memory.
+In a file the whole idea of a "newline" is often represented as this special `\n` character. So our code actually looks like this in the file under the hood.
 
 ```
 \nsize(400, 400);\n\n\nellipse(100, 100, 100, 100);
@@ -95,7 +95,7 @@ size(400, 400);
 ellipse(100, 100, 100, 100);
 ```
 
-Anyhow, thats why we have semicolons at the end of each line of code.
+Anyhow, thats why we have semicolons at the end of each line of code!
 
 # Challenge time!
 Since drawing a single circle is pretty boring I'll tell you about the other shapes you can draw, then your job is to take those and make a snowman!
