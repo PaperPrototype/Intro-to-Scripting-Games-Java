@@ -1,0 +1,1 @@
+make an object that can be used for drawing cars to the screen, with render method, and move method. make constructor take in inital position + colors.
