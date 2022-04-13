@@ -5,16 +5,34 @@ In the next section we are going to code ourselves a nice snowman.
 
 But before we can get to that we have some setup to do!
 
+# MacOS Setup
+First we need to download Processing, a simple coding editor that uses Java!
+
+Head over to https://processing.org and download the Mac version of Processing.
+
+![proc download mac](/Assets/proc-download-mac.png)
+
+Now open the zip file in downloads and unzip it.
+
+![mac downloads proc app](/Assets/mac-downloads-proc-app.png)
+
+Now just drag the app into your applications folder!
+
+![mac proc app drag to applications](/Assets/mac-proc-app-drag-to-applications.png)
+
+Now you are ready to go!
+
 # Windows Setup
-(scroll down for MacOS instructions)
+When coding you are gooing to have to navigate the folders and files of your computer. Windows default File Explorer can make this unecessarily hard. To prevent this problem are going to use a much nicer file manager called "Files".
 
-When coding we are gonna have to navigate the folder and files of our computer. Windows default File Explorer is not gonna do the job! Instead we are gonna download this much nicer file manager
-
+(nicer file manager)
 ![nice file manager](/Assets/files-app-home.png)
 
-To download it go to https://files.community/ and click the download button.
+To download Files go to https://files.community/ and click the download button.
 
-Once you get that up and running we can cleanse ourselves from all of our File Explorer days. Right click (or double click) on File Explorer, and click unpin from taskbar.
+Once you get the Files app open reomve File Explorer from the taskbar since we will be using the new Files app instead.
+
+Start by right clicking (or double clicking) on File Explorer in the taskbar, and select "Unpin from taskbar".
 
 ![taskbar unpin file explorer](/Assets/taskbar-unpin-file-explorer.png)
 
@@ -52,20 +70,3 @@ Now find the processing.exe file and drag and drop it onto taskbar.
 ![windows taskbar processing](/Assets/windows-taskbar-processing.png)
 
 And you are good to go!
-
-# MacOS Setup
-Now lets download our coding editor!
-
-Head over to https://processing.org and download the Mac version.
-
-![proc download mac](/Assets/proc-download-mac.png)
-
-Now open the zip file in downloads and unzip it.
-
-![mac downloads proc app](/Assets/mac-downloads-proc-app.png)
-
-Now just drag the app into your applications folder!
-
-![mac proc app drag to applications](/Assets/mac-proc-app-drag-to-applications.png)
-
-Now you are ready to go!
