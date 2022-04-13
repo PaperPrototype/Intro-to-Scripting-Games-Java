@@ -57,7 +57,7 @@ But they could be better! They really need some yellow around them. For this we 
 We see 2 new commands here.
 
 ```java
-stroke(reg, gree, blue);
+stroke(red, green, blue);
 ```
 
 The `stroke` command sets the color of the outline or "stroke" (as in a painting brush's stroke).
