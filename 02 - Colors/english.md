@@ -11,11 +11,11 @@ size(400, 400);
 background(0, 0, 0);
 ```
 
-If you are a nerd, you can skip this explanation and head strait to the docs here [https://processing.org/reference/#color](https://processing.org/reference/#color)
+If you are a diehard programmer you can skip this explanation and head strait to the docs here [https://processing.org/reference/#color](https://processing.org/reference/#color)
 
 Otherwise keep reading for my exemplary guidance.
 
-If you ran this code, you won't see anything exciting. Just a black void. Lets draw a rectangle on top of the void (and hopefully make it less void'ish).
+If you run this code, you won't see anything exciting. Just a black void. Lets draw a rectangle on top of the void (and hopefully make it less void'ish).
 
 (here is my code)
 ```java
@@ -26,9 +26,11 @@ background(0, 0, 0);
 rect(0, 200, 100, 100);
 ```
 
-If you run my code you should see the following.
+If you run the above code you should see a square on a black background!
 
 ![black void square processing.js processing spark3d](/Assets/black-void-square.png)
+
+Yay!
 
 If you put the `rect` command *before* the background command...
 
@@ -40,13 +42,13 @@ rect(0, 200, 100, 100);
 background(0, 0, 0);
 ```
 
-...then the background will be drawn on top of the rectangle (hence you won't see the rectangle).
+...then the background will be drawn on top of the square (hence you won't see the rectangle).
 
 ![black void processing.js processing spark3d](/Assets/black-void.png)
 
-This is important... the order we put commands is the order that they will get "painted" onto the screen.
+This is important... the order we put commands in, is the order that they will get "painted" onto the screen.
 
-Make sure you draw your square *after* you draw the background! Otherwise the background will get painted on top of the square.
+So, make sure to draw your shapes *after* you draw the background! Otherwise the background will get painted on top of the square. Painting the background on top of shapes is also how you can "clear" the screen to be a solid color. This will be useful later in section 04 - Variables.
 
 ![black void square processing.js processing spark3d](/Assets/black-void-square.png)
 
@@ -98,7 +100,7 @@ rect(200, 200, 50, 60);
 
 There is a bit of a problem here though! How do I get different colors? Well, its pretty easy, just put a `fill` comand before the shape(s) you want to change the color of!
 
-Lets have the last `rect` command colors its rectange to be blue.
+Lets put a `fill` command right before the last `rect` command. I will set the color to be blue (feel free to pick a different color).
 
 ```java
 size(400, 400);
@@ -121,4 +123,4 @@ If you add a `fill(0, 0, 255);` command right before the last shape you should s
 
 ![fill-cubes-colors](/Assets/fill-cubes-colors.png)
 
-TADA!
+TADA! Now lets make an Owl with this in the next section!

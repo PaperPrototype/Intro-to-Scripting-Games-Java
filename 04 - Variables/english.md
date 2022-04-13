@@ -1,6 +1,6 @@
 # Preview - TODO
 
-last section talks about coloring shapes + making an owl. This section will use variables tomake the owls eyes grow!
+last section talks about coloring shapes + making an owl. This section will use variables to make the owls eyes grow!
 
 end this section by saying "we haven't quite made a game yet tho. This sun of ours just bruns ours eyes out... a real sun would set, so we cna go to bed! 
 
