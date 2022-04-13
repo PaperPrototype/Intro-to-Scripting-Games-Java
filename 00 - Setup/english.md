@@ -23,7 +23,9 @@ Now just drag the app into your applications folder!
 Now you are ready to go!
 
 # Windows Setup
-When coding you are gooing to have to navigate the folders and files of your computer. Windows default File Explorer can make this unecessarily hard. To prevent this problem are going to use a much nicer file manager called "Files".
+When coding you are going to have to navigate the folders and files of Windows. Historically navigating the Windows file system has been hard. This is mostly the fault of File Explorers difficult UI.
+
+Instead of using File Explorer we are going to download a much nicer file manager called "Files".
 
 (nicer file manager)
 ![nice file manager](/Assets/files-app-home.png)
