@@ -1,4 +1,4 @@
-By the end of this lecture you will be able to make this!
+By the end of this lecture you will be able to make a snowman! And anything else you want to make :)
 
 ![processing-snowman](/Assets/processing-snowman.png)
 
@@ -92,7 +92,7 @@ Here are the commands for other shapes (replace `x` and `y` with actual position
 circle(x, y, extent);
 ```
 
-`extent` = `width` and `height`
+`extent` equals the `width` and `height` of the circle.
 
 (rect [https://processing.org/reference/rect_.html](https://processing.org/reference/rect_.html))
 ```
@@ -104,7 +104,9 @@ rect(x, y, width, height);
 line(x1, y1, x2, y2);
 ```
 
-And you can view the longer list [here](https://processing.org/reference/#shape) if you want.
+`x1` and `y1` are the position of one end of the line, and `x2` and `y2` are the position for the other end of the line.
+
+You can view the longer list of commands here [here](https://processing.org/reference/#shape), but these should be enough for now.
 
 Now take these shapes and build a snowman with some landscape! For reference here is my snowman :)
 
