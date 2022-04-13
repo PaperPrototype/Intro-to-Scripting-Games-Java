@@ -2,18 +2,18 @@ By the end of this lecture you will be able to make this!
 
 ![processing-snowman](/Assets/processing-snowman.png)
 
-# Installing Processing.js
+# Installing Processing
 You will need to download processing.js here [https://processing.org/download](https://processing.org/download)
 
 Once you download it and open it you should see the following app.
 
-## Processing.js on Mac
-![processing.js on mac](/Assets/processing-js.png)
+## Processing on Mac
+![processing on mac](/Assets/processing-js.png)
 
 If your on widnows it will look like this.
 
-## Processing.js on Windows
-![processing.js on windows](/Assets/proc-windows.png)
+## Processing on Windows
+![processing on windows](/Assets/proc-windows.png)
 
 And thats all the setup we have!
 
