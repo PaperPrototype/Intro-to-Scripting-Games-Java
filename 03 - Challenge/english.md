@@ -67,3 +67,19 @@ strokeWeight(width);
 ```
 
 The `strokeWeight` command sets the width of the stroke.
+
+Lets save this wonderful project's code (and owl)...
+
+# Saving on Mac
+(scroll to the bottom for Windows instructions)
+
+At the top of your screen find the menu that says `File` and then select `Save As...`
+
+![saving menu file mac](/Assets/saving-menu-file-mac.png)
+
+Name the project `owl` and click the save button.
+
+![saving save as owl mac](/Assets/saving-save-as-owl-mac.png)
+
+# Saving on Windows
+TODO (this course is in preview and this section is not complete)
