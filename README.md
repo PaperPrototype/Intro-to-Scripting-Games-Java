@@ -1,4 +1,5 @@
-Hey! So this website is a test version, glad you could make it though! Once the site is released this course will (hopefully) be finished! For now you can check out the github page https://github.com/PaperPrototype/Intro-to-Scripting-Games-Java/
+# Welcome!
 
+Hey! Welcome to our little nook! If you wanna take this course and learn sripting, I recommend you view it on our official site => https://sparker3d.com/paper/scripting/view/4
 
-TODO loading images/sprites onto the screen
+If you find an error feel free to edit it. If you have any ideas or suggestions feel free to create an Issue. All contributions are welcome!
