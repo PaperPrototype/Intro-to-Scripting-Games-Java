@@ -11,7 +11,7 @@ size(400, 400);
 background(0, 0, 0);
 ```
 
-If your a nerd, you can just skip this explanation and head strait to the docs here [https://processing.org/reference/#color](https://processing.org/reference/#color)
+If you are a nerd, you can skip this explanation and head strait to the docs here [https://processing.org/reference/#color](https://processing.org/reference/#color)
 
 Otherwise keep reading for my exemplary guidance.
 
@@ -46,18 +46,18 @@ background(0, 0, 0);
 
 This is important... the order we put commands is the order that they will get "painted" onto the screen.
 
-Make sure you draw yoru square after you draw the background!
+Make sure you draw your square *after* you draw the background! Otherwise the background will get painted on top of the square.
 
 ![black void square processing.js processing spark3d](/Assets/black-void-square.png)
 
 # Colors?
-So how are these colors working? Why did we get black for the background when we put in `(0, 0, 0)`?
+So how do these colors work? Why did we get black when we put `(0, 0, 0)`?
 
 The numbers are for amounts of Red Green and Blue.
 
-RGB? Ring a bell?
+RGB Colors!
 
-The color numbers range from 0 to 255 (255 is the max!). Now with this knowledge, lets color some shapes!
+Each number can range from 0 to 255 (255 is the max!). Now with this knowledge, lets color some shapes!
 
 # Coloring Shapes
 Ironically, the command for "filling" in the color of shapes is `fill`.
