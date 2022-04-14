@@ -57,6 +57,10 @@ Now you'll see the downloaded file! Lets change our layout to the column layout.
 
 ![files app column layout windows](/Assets/files-app-column-layout.png)
 
+To make sure we always use the column layout open setting by clikcing hte gear in the top right. GO to Preferences > Files and Folders > and the last option "Enable individual preferences for individual directories" and make sure that it is turned off.
+
+![files app column always](/Assets/files-app-column-always.png)
+
 Right click the file we downloaded (it should have the word "processing" in it) and select "Extract to processing-4.0b7-windows-x64" and wait a fwew seconds for it to load.
 
 ![windows extract files](/Assets/windows-extract-files.png)
