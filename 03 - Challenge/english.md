@@ -68,6 +68,13 @@ strokeWeight(width);
 
 The `strokeWeight` command sets the width of the stroke.
 
+And now its your turn to add a mouth!
+
+(Mr. Questionable Owl)
+![questionable owl mouth](/Assets/questionable-owl-mouth.png)
+
+If you don't want Mr. Questionable owl to become a susy owl (with yellow lips) use the `strokeWeight` command to set the outline width, right before drawing the mouth.
+
 Lets save this wonderful project's code (and owl)...
 
 # Saving on Mac
