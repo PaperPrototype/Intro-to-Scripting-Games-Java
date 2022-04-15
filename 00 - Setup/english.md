@@ -61,7 +61,7 @@ To make sure we always use the column layout open setting by clikcing hte gear i
 
 ![files app column always](/Assets/files-app-column-always.png)
 
-Right click the file we downloaded (it should have the word "processing" in it) and select "Extract to processing-4.0b7-windows-x64" and wait a fwew seconds for it to load.
+Right click the file we downloaded (it should have the word "processing" in it) and select "Extract to processing-4.0b7-windows-x64" and wait a few seconds for it to load.
 
 ![windows extract files](/Assets/windows-extract-files.png)
 

@@ -1,10 +1,10 @@
 # Challenge Draw an Owl...?
 
-By the end you will have an owl... chicken, thing.
+By the end you will have an owl... chicken.. thing.
 
 ![questionable owl](/Assets/questionable-owl.png)
 
-Mr. Questionable Owl here is yur subject of art today.
+Mr. Questionable Owl here is our subject of art today.
 
 First lets set the background and size of the window.
 
