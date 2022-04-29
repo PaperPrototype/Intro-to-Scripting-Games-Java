@@ -95,6 +95,6 @@ At the top of your screen find the menu that says `File` and then select `Save A
 
 ![saving menu file mac](/Assets/saving-menu-file-mac.png)
 
-Create a new folder called "projects". Select that folder. Now
+Create a new folder called "projects". Select that folder.
 
 Name the project `owl` and click the save button.
