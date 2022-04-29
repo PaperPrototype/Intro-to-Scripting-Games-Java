@@ -77,16 +77,24 @@ If you don't want Mr. Questionable owl to become a susy owl (with yellow lips) u
 
 Lets save this wonderful project's code (and owl)...
 
-# Saving on Mac
-(scroll to the bottom for Windows instructions)
+# Saving on Windows
+(scroll to the bottom for Mac instructions)
 
+Go to the menu option `File` and select `Save As...`.
+
+Now create a folder called "projects".
+
+![projects folder](/Assets/saving-menu-folder-windows.png)
+
+Double click the project folder to open it. Name our project "owl" and click save.
+
+![saving menu filename](/Assets/saving-menu-file-windows.png)
+
+# Saving on Mac
 At the top of your screen find the menu that says `File` and then select `Save As...`
 
 ![saving menu file mac](/Assets/saving-menu-file-mac.png)
 
+Create a new folder called "projects". Select that folder. Now
+
 Name the project `owl` and click the save button.
-
-![saving save as owl mac](/Assets/saving-save-as-owl-mac.png)
-
-# Saving on Windows
-TODO (this course is in preview and this section is not complete)
